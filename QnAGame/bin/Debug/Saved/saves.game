@@ -1,0 +1,274 @@
+{
+  "players": [
+    {
+      "name": "Brayan Hernandez",
+      "highscore": 125
+    }
+  ],
+  "quizzes": [
+    {
+      "gameName": "QUIZ DE BRAYAN HERNANDEZ",
+      "categories": [
+        "Arte y Literatura",
+        "Tecnología",
+        "Astronomía",
+        "Cultura General",
+        "Películas y Series"
+      ],
+      "questions": [
+        {
+          "title": "¿Quién fue el pintor de la obra \"La Gioconda\"?",
+          "choices": [
+            "Leonardo da Vinci",
+            "Donatello",
+            "Ludwig van Beethoven",
+            "Leonardo Dicaprio"
+          ],
+          "category": "Arte y Literatura"
+        },
+        {
+          "title": "¿Cuál es el libro más vendido de toda la historia?",
+          "choices": [
+            "Don Quijote",
+            "La Biblia",
+            "El Señor de los anillos",
+            "El Principito"
+          ],
+          "category": "Arte y Literatura"
+        },
+        {
+          "title": "¿A qué escritor se atribuye el poema épico \"La Odisea\"?",
+          "choices": [
+            "Homero",
+            "Dante",
+            "William Shakespeare",
+            "Fiódor Dostoievski"
+          ],
+          "category": "Arte y Literatura"
+        },
+        {
+          "title": "¿Cuántos niveles del infierno hay en la obra de Dante \"La Divina Comedia\"?",
+          "choices": [
+            "7",
+            "3",
+            "5",
+            "9"
+          ],
+          "category": "Arte y Literatura"
+        },
+        {
+          "title": "¿De qué nacionalidad era el creo el autor de la Estura de la Libertad?",
+          "choices": [
+            "Francés",
+            "Estadounidense",
+            "Alemán",
+            "Canadiense"
+          ],
+          "category": "Arte y Literatura"
+        },
+        {
+          "title": "¿Qué hace el ordenador si pulsas Control + Z?",
+          "choices": [
+            "Deshacer",
+            "Rehacer",
+            "Pegar",
+            "Eliminar"
+          ],
+          "category": "Tecnología"
+        },
+        {
+          "title": "¿Qué significa la abreviatura WWW?",
+          "choices": [
+            "World Wide Wed",
+            "World Wailer Web",
+            "Wireless World Web",
+            "Wide World Web"
+          ],
+          "category": "Tecnología"
+        },
+        {
+          "title": "¿Qué significa la abreviatura \"LOL\" en redes sociales?",
+          "choices": [
+            "Me muero de risa",
+            "¡Por Dios!",
+            "Me enfurece",
+            "mejores amigos",
+            "Mejores amigos"
+          ],
+          "category": "Tecnología"
+        },
+        {
+          "title": "¿Cuándo se fundó Nintendo?",
+          "choices": [
+            "1889",
+            "2001",
+            "1973",
+            "1996"
+          ],
+          "category": "Tecnología"
+        },
+        {
+          "title": "¿Qué lenguaje de programación es el más utilizado?",
+          "choices": [
+            "Java",
+            "PHP",
+            "C",
+            "C++"
+          ],
+          "category": "Tecnología"
+        },
+        {
+          "title": "¿Cuántas estrellas hay en el Sistema Solar?",
+          "choices": [
+            "Solo una",
+            "Mas de un millón",
+            "Más de un millón",
+            "Menos de mil",
+            "1.523.652 en total"
+          ],
+          "category": "Astronomía"
+        },
+        {
+          "title": "¿Qué planeta tiene la atmósfera más fría del sistema solar?",
+          "choices": [
+            "Neptuno",
+            "Marte",
+            "Urano",
+            "La Tierra"
+          ],
+          "category": "Astronomía"
+        },
+        {
+          "title": "¿Cómo se llama la superficie esférica que rodea a un agujero negro?",
+          "choices": [
+            "Horizonte de sucesos",
+            "Aro de luz",
+            "Curvatura espacial",
+            "Disco de acreción"
+          ],
+          "category": "Astronomía"
+        },
+        {
+          "title": "¿Quién inventó el telescopio?",
+          "choices": [
+            "Hans Lippershey",
+            "Tomas Edison",
+            "Albert Einstein",
+            "Steve Hawkings"
+          ],
+          "category": "Astronomía"
+        },
+        {
+          "title": "¿Qué clase de estrella es Proxima Centauri?",
+          "choices": [
+            "Enana Roja",
+            "Enana Azúl",
+            "Enana fría",
+            "Gigante blanca"
+          ],
+          "category": "Astronomía"
+        },
+        {
+          "title": "¿Cuál es el río más largo del mundo?",
+          "choices": [
+            "El Amazonas",
+            "El Nilo",
+            "El Danubio",
+            "El Río Grande"
+          ],
+          "category": "Cultura General"
+        },
+        {
+          "title": "¿Cuál es el edificio más alto del mundo?",
+          "choices": [
+            "El Burk Khalifa",
+            "El Shanghai Tower",
+            "El Goldin Finance 117",
+            "El Lotte World Tower"
+          ],
+          "category": "Cultura General"
+        },
+        {
+          "title": "¿Qué día es la fiesta nacional de los Estados Unidos?",
+          "choices": [
+            "El 4 de julio",
+            "El 14 de junio",
+            "El 12 de marzo",
+            "El 25 de diciembre"
+          ],
+          "category": "Cultura General"
+        },
+        {
+          "title": "¿En qué año cayó el muro de Berlín?",
+          "choices": [
+            "1989",
+            "1856",
+            "1890",
+            "1759"
+          ],
+          "category": "Cultura General"
+        },
+        {
+          "title": "¿Cuántos años duró la Primera Guerra Mundial?",
+          "choices": [
+            "4 años",
+            "5 años",
+            "7 años",
+            "1 año"
+          ],
+          "category": "Cultura General"
+        },
+        {
+          "title": "¿Cuál es la película más taquilllera de la historia?",
+          "choices": [
+            "Avengers: Endgame",
+            "Avatar",
+            "Minecraft: la película",
+            "Salvando al soldado Ryan"
+          ],
+          "category": "Películas y Series"
+        },
+        {
+          "title": "¿Cuántas películas conforman la saga cinematográfica Harry Potter?",
+          "choices": [
+            "8",
+            "9",
+            "4",
+            "5"
+          ],
+          "category": "Películas y Series"
+        },
+        {
+          "title": "¿Por qué película ganó Leonardo DiCaprio su primer Óscar??",
+          "choices": [
+            "El Renacido",
+            "Origen",
+            "Titanic",
+            "El Lobo de Wallstreet"
+          ],
+          "category": "Películas y Series"
+        },
+        {
+          "title": "¿En qué película animada un ogro se hace amigo de un burro??",
+          "choices": [
+            "Sherk",
+            "El Gato con Botas",
+            "Pinocho",
+            "Kung Fu Panda"
+          ],
+          "category": "Películas y Series"
+        },
+        {
+          "title": "Cómo se llama el villano principal de la pelicula \"Avenger: Infinity War\"",
+          "choices": [
+            "Thanos",
+            "Ego",
+            "Ivan Vanko",
+            "Tony Stark"
+          ],
+          "category": "Películas y Series"
+        }
+      ]
+    }
+  ]
+}

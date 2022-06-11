@@ -1,0 +1,11 @@
+D:\CSharpProjects\QnAGame\QnAGame\bin\Debug\QnAGame.exe.config
+D:\CSharpProjects\QnAGame\QnAGame\bin\Debug\QnAGame.exe
+D:\CSharpProjects\QnAGame\QnAGame\bin\Debug\QnAGame.pdb
+D:\CSharpProjects\QnAGame\QnAGame\obj\Debug\QnAGame.csproj.AssemblyReference.cache
+D:\CSharpProjects\QnAGame\QnAGame\obj\Debug\QnAGame.csproj.SuggestedBindingRedirects.cache
+D:\CSharpProjects\QnAGame\QnAGame\obj\Debug\QnAGame.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\QnAGame\QnAGame\obj\Debug\QnAGame.exe
+D:\CSharpProjects\QnAGame\QnAGame\obj\Debug\QnAGame.pdb
+D:\CSharpProjects\QnAGame\QnAGame\bin\Debug\Newtonsoft.Json.dll
+D:\CSharpProjects\QnAGame\QnAGame\bin\Debug\Newtonsoft.Json.xml
+D:\CSharpProjects\QnAGame\QnAGame\obj\Debug\QnAGame.csproj.CopyComplete
